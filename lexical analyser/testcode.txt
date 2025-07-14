@@ -1,0 +1,5 @@
+Adadi sum_ ( Adadi _a, Adadi _b )
+{
+Adadi _result ::
+_result := _a + _b::
+}

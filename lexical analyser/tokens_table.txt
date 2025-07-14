@@ -1,0 +1,21 @@
+Token Table
+< keyword,1 > 
+< id,1 > 
+< ( > 
+< keyword,1 > 
+< id,2 > 
+< , > 
+< keyword,1 > 
+< id,3 > 
+< ) > 
+< { > 
+< keyword,1 > 
+< id,4 > 
+< :: > 
+< id,4 > 
+< := > 
+< id,2 > 
+< + > 
+< id,3 > 
+< :: > 
+< } > 

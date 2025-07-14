@@ -1,0 +1,5 @@
+﻿  lexicalANDsyntax_analyzer.cpp
+C:\Users\HP\Desktop\visualstudio\lexical analyser\lexical analyser\lexicalANDsyntax_analyzer.cpp(570,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\visualstudio\lexical analyser\lexical analyser\lexicalANDsyntax_analyzer.cpp(593,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\visualstudio\lexical analyser\lexical analyser\lexicalANDsyntax_analyzer.cpp(1453,18): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  lexical analyser.vcxproj -> C:\Users\HP\Desktop\visualstudio\lexical analyser\x64\Debug\lexical analyser.exe
